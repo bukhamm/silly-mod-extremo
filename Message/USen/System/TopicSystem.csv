@@ -1,0 +1,18 @@
+﻿LabelOrder,Label,StringOrder,String
+1,TopicSys_NoAutoMap,5,"This map cannot be shown because you
+have yet to visit this area. You can
+enter it from the Tokyo Access Map."
+2,TopicSys_Transmit,8,"Now sending urgent Topic..."
+3,TopicSys_Sort0,10,"Sender"
+4,TopicSys_Sort1,11,"Alphabetical"
+5,TopicSys_Sort2,12,"Type"
+6,TopicSys_Sort3,13,"Client"
+7,TopicSys_ButtonRec,7,"Read urgent Topic"
+8,TopicSys_ButtonNew01,1,"Read new Topic"
+9,TopicSys_ButtonNew02,2,"Send a Topic"
+10,TopicSys_ButtonNew03,3,"Read new side story Topic"
+11,TopicSys_Ellipsis,4,"..."
+12,TopicSys_Receive,6,"New urgent Topic from %ls!"
+13,TopicSys_TitleCaution,15,"Please look at the TV screen."
+14,TopicSys_ButtonTra,9,"Send an urgent Topic"
+15,TopicSys_Place,14,"Location: "
