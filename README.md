@@ -1,19 +1,16 @@
-![Logo](https://i.imgur.com/dLMvDI8.png)             
-
-# Inyecte los archivos de la traduccion
-
-Con [Partool](https://github.com/Kaplas80/ParManager/releases/tag/v1.3.4) tienes que inyectar los archivos de las carpetas en sus respectivos archivos .par de esta manera:
-por ejemplo si vamos a inyectar los archivos en el db.par tenemos que proceder de la siguiente manera:
-ParTool.exe create *raiz_del_repositorio*\mods\CUSA10706-patch\Image0\data\db db.par -c 2
-el -c 2 es la compresion que usa Yakuza Kiwami 2 en el Partool, con todos los archivos hay que hacer los mismos pasos y revisar los archivos del repositorios con los originales que extraigas de tu copia de seguridad desde PS4
-# Porteadores
+![Logo](https://i.imgur.com/V6dHyja.png)                                                                                      
+# Instalar el mod
+Con [Shin Ryu Mod Manager](https://www.nexusmods.com/site/mods/743) tienes que instalar la traduccion de la siguiente manera:
+Despues de descargar el repositorio como archivo .zip tienes que descomprimir la carpeta "Sillyesp" en la carpeta mods de el directorio donde instalo el juego, si no existe dicha carpeta creela... Pero antes de instalar este mod tendra que usar la traduccion de Yakuza Kiwami 2 creada por Joselmenda que puede encontrarla [aqui](https://www.elotrolado.net/hilo_yakuza-kiwami-2-re-traduccion-al-castellano-enero-2024_2491806) es importante que use esta traduccion y la instale antes de instalar este mod.
+# Desarrolladores
 [Gonzalin](https://foros.fotech.cl/index.php?/profile/141865-gonzalin/)  
 [Erre](https://foros.fotech.cl/index.php?/profile/124738-erre/)  
 [Gokhan](https://foros.fotech.cl/index.php?/profile/142770-gokhan/)  
 [Cero](https://foros.fotech.cl/index.php?/profile/137683-cero/)  
 [Whopi](https://foros.fotech.cl/index.php?/profile/139981-whopi-%F0%9F%90%A7/)
 # Advertencia
-En resumen lo unico que hay que hacer con los archivos de la traduccion es inyectarlo en los .par de los archivos originales de ps4, si alguno de ellos da problema eliminelo, si tiene alguna duda consultelo con los porteadores.
-
-Esta traduccion fue hecha por un grupo independiente que la acaba de sacar el 11/04/2025 por favor les pido expresamente que no vayan a pedir soporte a dicho grupo ya que este solo da a las versiones de Steam, Gamepass y GOG Galaxy
-que son las versiones a las cual va dirigida esta traduccion, quienes pueden darle soporte son los porteadores en el foro en el que trabajan.
+Este mod contiene desnudes, los personajes que estan desnudos son:
+Kiryu version femenina
+Majima version femenina
+Sayama
+el motivo de la desnudes de estos personajes es crear un entorno lesbico entre los personajes ya que sabemos que en este juego Kiryu y Sayama son pololos pero del otro lado Majima anda de heterocurioso con Kiryu por lo que si estos 3 personajes son todos femeninos y a la ves estan desnudos si hace que de verdad este sea un Silly Mod Extremo
