@@ -1,0 +1,1486 @@
+P_KRU_BTL_SUD_bct_std_A_st:
+  Property 0 (Audio):
+    Property GUID: 94 81 4a e3 32 be 3e 45 a0 c1 24 ed 39 5c 8e 17 05 4f 4a f0 d2
+      cc 6c 48 9b d4 15 ba f6 0f a7 cb
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 26
+    Property Size (Reference Only): 64
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 15.0
+    End Frame: 500.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Unknown 0: 11
+    Sound Cue ID 1: 1
+    Sound Cue ID 2: 0
+    Sound Container ID: ''
+    Unknown 1: 106692660
+    Unknown 2: 0.0
+    Unknown 3: 0.0
+    Unknown 4: 0.0
+    Unknown 5: 0.0
+    Unknown 6: 0.0
+  Property 1:
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 8d da 1f de 16
+      f7 cc 49 a7 dd 5a 6b 91 7b aa a6
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 4
+    Property Unk 1: 0
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 2:
+    Property GUID: 8d da 1f de 16 f7 cc 49 a7 dd 5a 6b 91 7b aa a6 91 20 a3 06 bc
+      46 85 4b 85 bf 10 82 87 c5 02 b0
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 2
+    Property Unk 1: 1
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 3:
+    Property GUID: 91 20 a3 06 bc 46 85 4b 85 bf 10 82 87 c5 02 b0 b0 13 c1 6c 67
+      08 65 4c aa ca 3e b3 55 97 44 f8
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 22
+    Property Unk 1: 2
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 4:
+    Property GUID: 91 20 a3 06 bc 46 85 4b 85 bf 10 82 87 c5 02 b0 9c 41 a2 16 8a
+      6f 28 45 80 3c a9 c2 48 31 e2 66
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 23
+    Property Unk 1: 3
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 5:
+    Property GUID: 8d da 1f de 16 f7 cc 49 a7 dd 5a 6b 91 7b aa a6 2e 67 89 ad 8a
+      8c 30 47 8a 90 97 63 22 2e e2 d2
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 2
+    Property Unk 1: 4
+    Property Unk 2: 0
+    Property Unk 3: 1
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 6:
+    Property GUID: 2e 67 89 ad 8a 8c 30 47 8a 90 97 63 22 2e e2 d2 70 97 ea ac 3c
+      a4 39 44 90 97 7b e3 9b 74 08 8f
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 22
+    Property Unk 1: 5
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 7:
+    Property GUID: 2e 67 89 ad 8a 8c 30 47 8a 90 97 63 22 2e e2 d2 8a ec b4 81 a9
+      3a b4 4a 97 33 6b 4b 6d 2d 8d 3b
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 23
+    Property Unk 1: 6
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 8:
+    Property GUID: 8d da 1f de 16 f7 cc 49 a7 dd 5a 6b 91 7b aa a6 25 fb 5c 6e 2c
+      02 01 49 9e 6b db ee b1 e5 c7 ff
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 3
+    Property Unk 1: 7
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 9:
+    Property GUID: 8d da 1f de 16 f7 cc 49 a7 dd 5a 6b 91 7b aa a6 44 62 47 73 33
+      5d 00 43 93 b9 4e 3a 3a 36 7f 80
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 24
+    Property Unk 1: 8
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 10:
+    Property GUID: 8d da 1f de 16 f7 cc 49 a7 dd 5a 6b 91 7b aa a6 cc 4a b4 86 97
+      82 de 40 a5 82 4b 56 f1 05 8f 08
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 25
+    Property Unk 1: 9
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 11 (Camera):
+    Property GUID: 8d da 1f de 16 f7 cc 49 a7 dd 5a 6b 91 7b aa a6 d2 da dc 1f 54
+      83 53 47 ba 27 15 0c 1e 8c bf 44
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 88
+    Property Size (Reference Only): 48
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 43.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 1
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 3
+    Property Unk 1: 1072064102
+    Property Unk 2: 1073741824
+    Property Unk 3: 0
+  Property 12 (Rumble):
+    Property GUID: 8d da 1f de 16 f7 cc 49 a7 dd 5a 6b 91 7b aa a6 23 42 a2 27 da
+      07 34 46 b7 2c 09 19 04 d6 e6 bf
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 68
+    Property Size (Reference Only): 104
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 43.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 1
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 111
+    Property Unk 1: 4294967295
+    Property Unk 2: 4294967295
+    Property Unk 3: 4294967295
+    Property Unk 4: 4294967295
+    Property Unk 5: 4294967295
+    Property Unk 6: 4294967295
+    Property Unk 7: 4294967295
+    Property Unk 8: 4294967295
+    Property Unk 9: 2155905152
+    Property Unk 10: 2155905152
+    Property Unk 11: 2155905152
+    Property Unk 12: 2155905152
+    Property Unk 13: 2155905152
+    Property Unk 14: 2155905152
+    Property Unk 15: 2155905152
+    Property Unk 16: 2155905152
+    Property Unk 17: 0
+  Property 13 (Audio):
+    Property GUID: 8d da 1f de 16 f7 cc 49 a7 dd 5a 6b 91 7b aa a6 b2 64 15 45 7e
+      d0 b1 41 93 0c 41 f6 71 c7 30 e1
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 26
+    Property Size (Reference Only): 64
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 31.0
+    End Frame: 70.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Unknown 0: 1
+    Sound Cue ID 1: 26
+    Sound Cue ID 2: 0
+    Sound Container ID: gv_fighter_kiryu
+    Unknown 1: 16
+    Unknown 2: 4.0
+    Unknown 3: 1.0
+    Unknown 4: 40.0
+    Unknown 5: 0.009999999776482582
+    Unknown 6: 0.0
+  Property 14:
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 c7 83 4c d4 80
+      3c 7d 4e b9 50 74 15 d6 da 44 72
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 4
+    Property Unk 1: 10
+    Property Unk 2: 0
+    Property Unk 3: 1
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 15:
+    Property GUID: c7 83 4c d4 80 3c 7d 4e b9 50 74 15 d6 da 44 72 de 69 0f db a5
+      ed 64 4f 82 76 b4 27 7a f4 a7 eb
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 2
+    Property Unk 1: 11
+    Property Unk 2: 0
+    Property Unk 3: 1
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 16:
+    Property GUID: c7 83 4c d4 80 3c 7d 4e b9 50 74 15 d6 da 44 72 2c 4c 0c ff 95
+      e7 95 4e 97 92 34 c7 de 9c 0b 3f
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 2
+    Property Unk 1: 12
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 17:
+    Property GUID: c7 83 4c d4 80 3c 7d 4e b9 50 74 15 d6 da 44 72 25 2f fe fe 5d
+      71 bf 4c 95 9a 25 45 62 61 42 35
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 3
+    Property Unk 1: 13
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 0
+    Property Unk 5: 0
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 18 (Audio):
+    Property GUID: c7 83 4c d4 80 3c 7d 4e b9 50 74 15 d6 da 44 72 99 11 7c 97 39
+      ea 00 4e 85 0f ea c8 b1 68 4c b7
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 26
+    Property Size (Reference Only): 64
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 55.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Unknown 0: 1
+    Sound Cue ID 1: 7
+    Sound Cue ID 2: 128
+    Sound Container ID: Generic
+    Unknown 1: 0
+    Unknown 2: 4.0
+    Unknown 3: 1.0
+    Unknown 4: 40.0
+    Unknown 5: 0.009999999776482582
+    Unknown 6: 0.0
+  Property 19:
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 42 bc 26 3f cf
+      78 64 40 bf 69 a3 37 65 1e 80 cf
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 26
+    Property Unk 1: 14
+    Property Unk 2: 0
+    Property Unk 3: 0
+    Property Unk 4: 1970824556
+    Property Unk 5: 12915
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 20:
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 7a 53 23 79 f8
+      21 d4 40 b9 e4 00 89 60 b1 c0 88
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 17
+    Property Type: 0
+    Property Size (Reference Only): 112
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Property Unk 0: 26
+    Property Unk 1: 15
+    Property Unk 2: 1
+    Property Unk 3: 0
+    Property Unk 4: 1734636906
+    Property Unk 5: 101
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 0
+    Property Unk 12: 0
+    Property Unk 13: 0
+    Property Unk 14: 0
+    Property Unk 15: 0
+    Property Unk 16: 0
+    Property Unk 17: 0
+    Property Unk 18: 0
+    Property Unk 19: 0
+    Property Unk 20: 0
+    Property Unk 21: 0
+    Property Unk 22: 0
+    Property Unk 23: 0
+    Property Unk 24: 0
+    Property Unk 25: 0
+    Property Unk 26: 0
+    Property Unk 27: 0
+  Property 21 (Control Window):
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 71 e1 81 90 d9
+      ea bf 4f 90 19 79 6c c9 bc 23 52
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 75
+    Property Size (Reference Only): 36
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 38.0
+    End Frame: 55.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Struct Number: 0
+  Property 22 (p0x6E_110):
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 e9 94 30 41 8d
+      37 fc 42 be 8a d7 bc e1 83 40 4f
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 110
+    Property Size (Reference Only): 56
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 62.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 3
+    Property Header Unk7: 0
+    Property Unk 0: 0
+    Property Unk 1: 2
+    Property Unk 2: 0
+    Property Unk 3: 2
+    Property Unk 4: 2147483648
+    Property Unk 5: 2147483648
+  Property 23 (Hitbox):
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 bd 77 8f 19 be
+      98 fb 42 83 a5 18 08 05 5b 7b 87
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 77
+    Property Size (Reference Only): 48
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 28.0
+    End Frame: 32.0
+    Property Header Unk3: 0
+    Property Header Unk4: 2
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Damage: 200
+    Knockback Force: 6
+    Hitbox Location: Right Elbow
+    Move Effect 1: None
+    Move Effect 2: Knockdown (In Place)
+    Move Effect 3: None
+    Move Effect 4: None
+    Move Effect 5: None
+    Move Effect 6: None
+    Move Effect 7: 0
+    Move Effect 8: 0
+  Property 24 (Hitbox):
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 b0 95 d2 4f 44
+      e9 c4 49 b0 d2 3b 36 75 9c 1e 70
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 77
+    Property Size (Reference Only): 48
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 33.0
+    End Frame: 35.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Damage: 200
+    Knockback Force: 6
+    Hitbox Location: 261886
+    Move Effect 1: None
+    Move Effect 2: Knockdown (In Place)
+    Move Effect 3: None
+    Move Effect 4: None
+    Move Effect 5: None
+    Move Effect 6: None
+    Move Effect 7: 0
+    Move Effect 8: 0
+  Property 25 (p0x57_87):
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 14 75 df dc d0
+      c1 c3 45 a0 92 ea bd 83 70 c6 50
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 87
+    Property Size (Reference Only): 36
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 62.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 3
+    Property Header Unk7: 0
+    Property Unk 0: 15
+  Property 26 (Hyperarmor TYPE2):
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 80 15 8a cd 4f
+      39 1b 48 9f 33 75 b7 98 b8 75 a0
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 128
+    Property Size (Reference Only): 40
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 62.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 1
+    Property Unk 1: 261886
+  Property 27 (Flowdust Emitter):
+    Property GUID: 63 c0 3f b9 01 cc 74 4a bf 9d f3 e8 d5 ab 5a b1 c7 fc 4c aa 44
+      48 ce 40 b8 e1 13 4a 6d 22 25 38
+    Bone Checksum: 44 03
+    Bone Name: mune_c_n
+    Property Section: 12
+    Property Type: 29
+    Property Size (Reference Only): 156
+    Property Header Unk1: 35
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 40.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 2
+    Property Unk 1: 14
+    Property Unk 2: 1055286886
+    Property Unk 3: 1181745152
+    Property Unk 4: 10
+    Property Unk 5: 22
+    Property Unk 6: 0
+    Property Unk 7: 344522752
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 2
+    Property Unk 12: 1065353216
+    Property Unk 13: 1065353216
+    Property Unk 14: 0
+    Property Unk 15: 1036831949
+    Property Unk 16: 1043542835
+    Property Unk 17: 1056964608
+    Property Unk 18: 1092616192
+    Property Unk 19: 1036831949
+    Property Unk 20: 1045220557
+    Property Unk 21: 1063675494
+    Property Unk 22: 1084227584
+    Property Unk 23: 1066192077
+    Property Unk 24: 1119092736
+    Property Unk 25: 1067869798
+    Property Unk 26: 1108082688
+    Property Unk 27: 1063675494
+    Property Unk 28: 0
+    Property Unk 29: 1082130432
+    Property Unk 30: 0
+  Property 28 (Flowdust Emitter):
+    Property GUID: d6 5c 56 49 3f f9 d0 48 ac 60 51 31 f6 18 e9 57 0c f1 29 b5 14
+      dd bd 49 97 bd c0 a3 c4 0b 30 4b
+    Bone Checksum: 07 03
+    Bone Name: ude1_l_n
+    Property Section: 12
+    Property Type: 29
+    Property Size (Reference Only): 156
+    Property Header Unk1: 142
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 40.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 2
+    Property Unk 1: 14
+    Property Unk 2: 1046562734
+    Property Unk 3: 1181745152
+    Property Unk 4: 10
+    Property Unk 5: 22
+    Property Unk 6: 0
+    Property Unk 7: 344522752
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 2
+    Property Unk 12: 1065353216
+    Property Unk 13: 1065353216
+    Property Unk 14: 0
+    Property Unk 15: 1036831949
+    Property Unk 16: 1043542835
+    Property Unk 17: 1056964608
+    Property Unk 18: 1090519040
+    Property Unk 19: 1036831949
+    Property Unk 20: 1045220557
+    Property Unk 21: 1063675494
+    Property Unk 22: 1084227584
+    Property Unk 23: 1066192077
+    Property Unk 24: 1119092736
+    Property Unk 25: 1067030938
+    Property Unk 26: 1108082688
+    Property Unk 27: 1063675494
+    Property Unk 28: 0
+    Property Unk 29: 1082130432
+    Property Unk 30: 0
+  Property 29 (Flowdust Emitter):
+    Property GUID: 47 0d 6f d7 b9 b1 a5 4a b8 51 97 bd 09 72 b8 34 da a3 10 34 33
+      e6 5e 4f 88 e1 21 59 1b fa bf dc
+    Bone Checksum: 0d 03
+    Bone Name: ude1_r_n
+    Property Section: 12
+    Property Type: 29
+    Property Size (Reference Only): 156
+    Property Header Unk1: 104
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 40.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 2
+    Property Unk 1: 14
+    Property Unk 2: 1046562734
+    Property Unk 3: 1181745152
+    Property Unk 4: 10
+    Property Unk 5: 22
+    Property Unk 6: 0
+    Property Unk 7: 344522752
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 2
+    Property Unk 12: 1065353216
+    Property Unk 13: 1065353216
+    Property Unk 14: 0
+    Property Unk 15: 1036831949
+    Property Unk 16: 1043542835
+    Property Unk 17: 1056964608
+    Property Unk 18: 1090519040
+    Property Unk 19: 1036831949
+    Property Unk 20: 1045220557
+    Property Unk 21: 1063675494
+    Property Unk 22: 1084227584
+    Property Unk 23: 1066192077
+    Property Unk 24: 1119092736
+    Property Unk 25: 1067030938
+    Property Unk 26: 1108082688
+    Property Unk 27: 1063675494
+    Property Unk 28: 0
+    Property Unk 29: 1082130432
+    Property Unk 30: 0
+  Property 30 (PiB Emitter):
+    Property GUID: 0b 11 70 1c 4f 89 af 48 91 f0 81 cd 8a 32 11 b0 76 17 f0 ff ec
+      46 8d 41 9d c0 53 47 d6 85 89 f7
+    Bone Checksum: 10 04
+    Bone Name: center_c_n
+    Property Section: 12
+    Property Type: 19
+    Property Size (Reference Only): 256
+    Property Header Unk1: 0
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 39.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    PiB Emitter ID: FAt0009
+    PiB Unknown 1: 15
+    Null 1: 0.0
+    Null 2: 0.0
+    PiB Unknown 2: 1.0
+    Null 3: 0.0
+    PiB Unknown 3: 0.0
+    Null 4: 0.0
+    Null 5: 0.0
+    Effect Amount (Horizontal): 1.0
+    Null 6: 0.0
+    Null 7: 0.0
+    PiB Unknown 4: 0.0
+    Null 8: 0.0
+    PiB Unknown 5: 1.0
+    Null 9: 0.0
+    Effect X Coordinate: 0.10999999940395355
+    Effect Y Coordinate: 0.1599999964237213
+    Null 10: 0.15000000596046448
+    PiB Unknown 6: 1.0
+    Effect Width: 1.2999999523162842
+    Effect Height: 1.2999999523162842
+    Effect Depth: 1.2999999523162842
+    Null 11: 0.0
+    Null 12: 0.0
+    Effect Color Overlay (RGBA): ff ff ff ff
+    Null 13: 0.0
+    Effect Animation Speed: 1.0
+    Effect Lighting Intensity: 1.0
+    PiB Unknown 7: -1.0
+    PiB Unknown 8: -1.0
+    Null 14: 0.0
+    Null 15 (All FF): ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+      ff ff ff ff ff ff ff ff ff ff ff ff
+    Null 16: 0.0
+    Null 17: 0.0
+    Null 18: 0.0
+    PiB Unknown 9: 1.0
+    PiB Unknown 10: 1.0
+    PiB Unknown 11: 32.0
+    PiB Unknown 12: 1.0
+    PiB Unknown 13: 0.0
+    PiB Emitter Name (Must Match ID): FAt0009
+  Property 31 (PiB Emitter):
+    Property GUID: 0b 11 70 1c 4f 89 af 48 91 f0 81 cd 8a 32 11 b0 cf a8 8c 43 98
+      fd 63 4a 95 36 9e a8 27 c9 15 29
+    Bone Checksum: 10 04
+    Bone Name: center_c_n
+    Property Section: 12
+    Property Type: 19
+    Property Size (Reference Only): 256
+    Property Header Unk1: 0
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 350.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    PiB Emitter ID: FAt0010
+    PiB Unknown 1: 7
+    Null 1: 0.0
+    Null 2: 0.0
+    PiB Unknown 2: 5.960464477539063e-08
+    Null 3: 0.0
+    PiB Unknown 3: 0.9999998807907104
+    Null 4: 0.0
+    Null 5: 0.0
+    Effect Amount (Horizontal): 1.0
+    Null 6: 0.0
+    Null 7: 0.0
+    PiB Unknown 4: -0.9999998807907104
+    Null 8: 0.0
+    PiB Unknown 5: 5.960464477539063e-08
+    Null 9: 0.0
+    Effect X Coordinate: 0.12999999523162842
+    Effect Y Coordinate: -0.009999999776482582
+    Null 10: 0.0
+    PiB Unknown 6: 1.0
+    Effect Width: 1.0
+    Effect Height: 1.0
+    Effect Depth: 1.0
+    Null 11: 0.0
+    Null 12: 0.0
+    Effect Color Overlay (RGBA): ff ff ff 41
+    Null 13: 0.0
+    Effect Animation Speed: 1.0
+    Effect Lighting Intensity: 1.0
+    PiB Unknown 7: -1.0
+    PiB Unknown 8: -1.0
+    Null 14: 0.0
+    Null 15 (All FF): ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+      ff ff ff ff ff ff ff ff ff ff ff ff
+    Null 16: 0.0
+    Null 17: 0.0
+    Null 18: 0.0
+    PiB Unknown 9: 1.0
+    PiB Unknown 10: 1.0
+    PiB Unknown 11: 32.0
+    PiB Unknown 12: 1.0
+    PiB Unknown 13: 0.0
+    PiB Emitter Name (Must Match ID): FAt0010
+  Property 32 (Limflash):
+    Property GUID: 0b 11 70 1c 4f 89 af 48 91 f0 81 cd 8a 32 11 b0 b9 a5 b9 de 8e
+      b8 71 40 8f b3 a3 07 b9 ab 7e fe
+    Bone Checksum: 10 04
+    Bone Name: center_c_n
+    Property Section: 12
+    Property Type: 31
+    Property Size (Reference Only): 332
+    Property Header Unk1: 0
+    Property Header Unk2: 0
+    Start Frame: 30.0
+    End Frame: 55.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 4
+    Property Unk 1: 42
+    Property Unk 2: 10
+    Property Unk 3: 39
+    Property Unk 4: 1056964608
+    Property Unk 5: 1065353216
+    Property Unk 6: 0
+    Property Unk 7: 0
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 27
+    Property Unk 12: 2147483648
+    Property Unk 13: 1058508513
+    Property Unk 14: 1062084080
+    Property Unk 15: 1064008877
+    Property Unk 16: 1064995177
+    Property Unk 17: 1065344153
+    Property Unk 18: 1065353216
+    Property Unk 19: 1065353216
+    Property Unk 20: 1065353216
+    Property Unk 21: 1065353216
+    Property Unk 22: 1065353216
+    Property Unk 23: 1065353216
+    Property Unk 24: 1065353216
+    Property Unk 25: 1065353216
+    Property Unk 26: 1065353216
+    Property Unk 27: 1065353216
+    Property Unk 28: 1065353216
+    Property Unk 29: 1065353216
+    Property Unk 30: 1065353216
+    Property Unk 31: 1065353216
+    Property Unk 32: 1065353216
+    Property Unk 33: 1065353216
+    Property Unk 34: 1065353216
+    Property Unk 35: 1065353216
+    Property Unk 36: 1065353216
+    Property Unk 37: 1065353216
+    Property Unk 38: 1065353216
+    Property Unk 39: 1667327533
+    Property Unk 40: 1600348005
+    Property Unk 41: 110
+    Property Unk 42: 0
+    Property Unk 43: 1028443341
+    Property Unk 44: 1075838976
+    Property Unk 45: 3212836864
+    Property Unk 46: 3212836864
+    Property Unk 47: 3202770534
+    Property Unk 48: 3212836864
+    Property Unk 49: 3212836864
+    Property Unk 50: 3208978104
+    Property Unk 51: 1094765773
+    Property Unk 52: 3212836864
+    Property Unk 53: 3212836864
+    Property Unk 54: 1065353216
+    Property Unk 55: 1049247089
+    Property Unk 56: 1052938076
+    Property Unk 57: 1065353216
+    Property Unk 58: 1065353216
+    Property Unk 59: 1040522936
+    Property Unk 60: 1057300152
+    Property Unk 61: 1043878380
+    Property Unk 62: 1042536202
+    Property Unk 63: 0
+    Property Unk 64: 1050253722
+    Property Unk 65: 1077936128
+    Property Unk 66: 0
+    Property Unk 67: 0
+    Property Unk 68: 0
+    Property Unk 69: 0
+    Property Unk 70: 0
+    Property Unk 71: 0
+    Property Unk 72: 0
+    Property Unk 73: 1045220557
+    Property Unk 74: 1065017672
+  Property 33 (Flowdust Emitter):
+    Property GUID: 49 78 87 2b 5c cf e5 43 9a 1d 4a cd d6 4c 38 b0 c3 03 0b d4 6a
+      d0 25 45 8b 2e 78 23 b7 82 d5 05
+    Bone Checksum: 08 03
+    Bone Name: ude2_l_n
+    Property Section: 12
+    Property Type: 29
+    Property Size (Reference Only): 156
+    Property Header Unk1: 143
+    Property Header Unk2: 0
+    Start Frame: 28.0
+    End Frame: 33.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 2
+    Property Unk 1: 14
+    Property Unk 2: 1046562734
+    Property Unk 3: 1181745152
+    Property Unk 4: 10
+    Property Unk 5: 22
+    Property Unk 6: 0
+    Property Unk 7: 344522752
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 2
+    Property Unk 12: 1065353216
+    Property Unk 13: 1065353216
+    Property Unk 14: 0
+    Property Unk 15: 1036831949
+    Property Unk 16: 1043542835
+    Property Unk 17: 1056964608
+    Property Unk 18: 1090519040
+    Property Unk 19: 1036831949
+    Property Unk 20: 1045220557
+    Property Unk 21: 1063675494
+    Property Unk 22: 1084227584
+    Property Unk 23: 1066192077
+    Property Unk 24: 1119092736
+    Property Unk 25: 1067030938
+    Property Unk 26: 1108082688
+    Property Unk 27: 1063675494
+    Property Unk 28: 0
+    Property Unk 29: 1082130432
+    Property Unk 30: 0
+  Property 34 (Flowdust Emitter):
+    Property GUID: 42 97 80 3d c1 f7 5e 44 88 67 35 bd f0 1d 07 7d a7 b5 3b eb e1
+      32 88 44 86 6a a9 cc 4e a9 08 5b
+    Bone Checksum: 0e 03
+    Bone Name: ude2_r_n
+    Property Section: 12
+    Property Type: 29
+    Property Size (Reference Only): 156
+    Property Header Unk1: 105
+    Property Header Unk2: 0
+    Start Frame: 28.0
+    End Frame: 33.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 2
+    Property Unk 1: 14
+    Property Unk 2: 1046562734
+    Property Unk 3: 1181745152
+    Property Unk 4: 10
+    Property Unk 5: 22
+    Property Unk 6: 0
+    Property Unk 7: 344522752
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 2
+    Property Unk 12: 1065353216
+    Property Unk 13: 1065353216
+    Property Unk 14: 0
+    Property Unk 15: 1036831949
+    Property Unk 16: 1043542835
+    Property Unk 17: 1056964608
+    Property Unk 18: 1090519040
+    Property Unk 19: 1036831949
+    Property Unk 20: 1045220557
+    Property Unk 21: 1063675494
+    Property Unk 22: 1084227584
+    Property Unk 23: 1066192077
+    Property Unk 24: 1119092736
+    Property Unk 25: 1067030938
+    Property Unk 26: 1108082688
+    Property Unk 27: 1063675494
+    Property Unk 28: 0
+    Property Unk 29: 1082130432
+    Property Unk 30: 0
+  Property 35 (Flowdust Emitter):
+    Property GUID: 2c 0d 9b d4 d5 cf 04 4a bf 69 78 88 c8 f8 c1 23 d7 96 b3 58 44
+      ea 4f 4c aa 83 1c 61 35 ba b8 78
+    Bone Checksum: 09 03
+    Bone Name: ude3_l_n
+    Property Section: 12
+    Property Type: 29
+    Property Size (Reference Only): 156
+    Property Header Unk1: 144
+    Property Header Unk2: 0
+    Start Frame: 27.0
+    End Frame: 30.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 2
+    Property Unk 1: 14
+    Property Unk 2: 1046562734
+    Property Unk 3: 1181745152
+    Property Unk 4: 10
+    Property Unk 5: 22
+    Property Unk 6: 0
+    Property Unk 7: 344522752
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 2
+    Property Unk 12: 1065353216
+    Property Unk 13: 1065353216
+    Property Unk 14: 0
+    Property Unk 15: 1036831949
+    Property Unk 16: 1043542835
+    Property Unk 17: 1056964608
+    Property Unk 18: 1090519040
+    Property Unk 19: 1036831949
+    Property Unk 20: 1045220557
+    Property Unk 21: 1063675494
+    Property Unk 22: 1084227584
+    Property Unk 23: 1066192077
+    Property Unk 24: 1119092736
+    Property Unk 25: 1067030938
+    Property Unk 26: 1108082688
+    Property Unk 27: 1063675494
+    Property Unk 28: 0
+    Property Unk 29: 1082130432
+    Property Unk 30: 0
+  Property 36 (Flowdust Emitter):
+    Property GUID: 22 f4 0b 3e 63 79 8e 42 b2 9c dd 20 8c ae 64 49 02 26 4c dc 1d
+      ae d9 41 82 e2 ba bb 2c d6 60 de
+    Bone Checksum: 0f 03
+    Bone Name: ude3_r_n
+    Property Section: 12
+    Property Type: 29
+    Property Size (Reference Only): 156
+    Property Header Unk1: 106
+    Property Header Unk2: 0
+    Start Frame: 27.0
+    End Frame: 30.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 2
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 2
+    Property Unk 1: 14
+    Property Unk 2: 1046562734
+    Property Unk 3: 1181745152
+    Property Unk 4: 10
+    Property Unk 5: 22
+    Property Unk 6: 0
+    Property Unk 7: 344522752
+    Property Unk 8: 0
+    Property Unk 9: 0
+    Property Unk 10: 0
+    Property Unk 11: 2
+    Property Unk 12: 1065353216
+    Property Unk 13: 1065353216
+    Property Unk 14: 0
+    Property Unk 15: 1036831949
+    Property Unk 16: 1043542835
+    Property Unk 17: 1056964608
+    Property Unk 18: 1090519040
+    Property Unk 19: 1036831949
+    Property Unk 20: 1045220557
+    Property Unk 21: 1063675494
+    Property Unk 22: 1084227584
+    Property Unk 23: 1066192077
+    Property Unk 24: 1119092736
+    Property Unk 25: 1067030938
+    Property Unk 26: 1108082688
+    Property Unk 27: 1063675494
+    Property Unk 28: 0
+    Property Unk 29: 1082130432
+    Property Unk 30: 0
+  Property 37:
+    Property GUID: 9c 02 64 77 9c df ac 4c 8e 27 5e 5f 81 8b e3 39 56 16 24 f4 4a
+      d8 46 4c 9b a2 02 ca c8 7c ad c5
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 262
+    Property Size (Reference Only): 88
+    Property Header Unk1: 143
+    Property Header Unk2: 0
+    Start Frame: 31.0
+    End Frame: 55.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Property Unk 0: 0
+    Property Unk 1: 3212836864
+    Property Unk 2: 1049582633
+    Property Unk 3: 3184315597
+    Property Unk 4: 1
+    Property Unk 5: 4278190079
+    Property Unk 6: 4042652156
+    Property Unk 7: 3537626090
+    Property Unk 8: 2662185671
+    Property Unk 9: 1483373709
+    Property Unk 10: 405157190
+    Property Unk 11: 1037
+    Property Unk 12: 0
+    Property Unk 13: 0
+  Property 38 (Audio):
+    Property GUID: 3e fa ad bb a9 dd 63 43 b4 f6 ab 14 59 61 b5 c8 5f e3 95 0f f0
+      2c 28 4b a5 47 4a 54 17 fc a3 35
+    Bone Checksum: 00 00
+    Bone Name: ''
+    Property Section: 12
+    Property Type: 26
+    Property Size (Reference Only): 64
+    Property Header Unk1: -1
+    Property Header Unk2: 0
+    Start Frame: 28.0
+    End Frame: 60.0
+    Property Header Unk3: 0
+    Property Header Unk4: 0
+    Property Header Unk5: 0
+    Property Header Unk6: 2
+    Property Header Unk7: 0
+    Unknown 0: 1
+    Sound Cue ID 1: 18
+    Sound Cue ID 2: 0
+    Sound Container ID: battle_common
+    Unknown 1: 16
+    Unknown 2: 4.0
+    Unknown 3: 1.0
+    Unknown 4: 40.0
+    Unknown 5: 0.009999999776482582
+    Unknown 6: 0.0
